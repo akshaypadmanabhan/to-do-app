@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #020631;
+  background-color: #40468e;
 }
 
 .app {
@@ -64,8 +64,9 @@ h2 {
   flex-direction: column;
 }
 .app .todos .todo {
-  margin-top: 0.8em;
-  width: 20em;
+  margin-top: 2.8em;
+    width: 29em
+;
   height: 2em;
   background-color: white;
   display: flex;

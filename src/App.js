@@ -9,7 +9,7 @@ function App() {
       </div>
       <div className="subHeading">
         <br />
-        <h2>Whoop, it's Wednesday 🌝 ☕ </h2>
+        <h2>Whoop,What You Want to do Today🌝 ☕ </h2>
       </div>
       <div className="input">
         <input type="text" placeholder="🖊️ Add item..." />
@@ -19,7 +19,7 @@ function App() {
         <div className="todo">
           <div className="left">
             <input type="checkbox" name="" id="" />
-            <p>Rect tutorial</p>
+            <p>React tutorial</p>
           </div>
           <div className="right">
             <i className="fas fa-times"></i>
